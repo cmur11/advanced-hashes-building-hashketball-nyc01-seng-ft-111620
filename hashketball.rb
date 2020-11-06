@@ -7,7 +7,7 @@ def game_hash
       :colors => ["Black", "White"],
       :players => [
         {
-        :player_name => "Alan Anderson","Reggie Evans", "Brook Lopez", "Mason Plumlee"
+        :player_name => "Alan Anderson","Reggie Evans", "Brook Lopez", "Mason Plumlee", "Jason Terry"
         :number => "",
         :shoe => "",
         :points => "",
